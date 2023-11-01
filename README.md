@@ -1,5 +1,6 @@
 
-# Blade-and-Glory
+# Blade-and-Glory. 
+Download the executable to play!!
 
 Greetings, respected professors, fellow students, and all those gathered here. I'm delighted to present my academic project—a 3D video game developed using Unity and programmed in C#. This project marks the culmination of my academic journey at UNIVERSITY OF CATANIA, reflecting the culmination of the skills and knowledge I've gained during my studies. It's worth noting that, while I've been responsible for the development and programming, the 3D models used in the game were sourced online, emphasizing the collaborative nature of this academic endeavor.
 
